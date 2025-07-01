@@ -4,28 +4,14 @@
   
   <h1 align="center">Hi 👋, I'm Rohith</h1>
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohith2106&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="trophy"/>
-  </a>
-  
-  <p align="center">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFFF¢er=true&vCenter=true&width=435&lines=A+Passionate+DevOps+Engineer;Bridging+Development+and+Operations;Automating+the+World,+One+Pipeline+at+a+Time" alt="Typing SVG" />
-    </a>
-  </p>
+  <h3 align="center">A Passionate DevOps Engineer Bridging Development and Operations</h3>
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
 
   <p align="center">
-    🔭 I’m currently focused on **Cloud Native technologies & Infrastructure as Code (IaC)**.
-    <br/>
-    💬 Ask me about **Go, Docker, AWS, or anything related to Backend & DevOps**.
-    <br/>
-    📫 How to reach me: **[Your Email or LinkedIn Profile URL Here]**
+    🔭 I’m currently working on <b>Cloud Native technologies & DevOps-based projects</b>.<br />
+    💬 Ask me about <b>Go, Docker, AWS, or anything related to Backend & DevOps</b>.<br />
   </p>
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
-  
   <h3 align="center">🔗 Connect with Me</h3>
   
   <p align="center">
@@ -55,24 +41,6 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   </p>
-
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
   
-  <h3 align="center">📊 My GitHub Stats</h3>
-
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith2106&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="rohith2106's Top Languages" />
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith2106&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="rohith2106's GitHub Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith2106&theme=dracula&hide_border=true&background=00000000" alt="rohith2106's Streak Stats" />
-    </a>
-  </p>
 
 </div>
