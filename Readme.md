@@ -4,12 +4,12 @@
   
   <h1 align="center">Hi 👋, I'm Rohith</h1>
   
-  <h3 align="center">A Passionate DevOps Engineer Bridging Development and Operations</h3>
+  <h3 align="center">A Passionate Software Engineer</h3>
 
 
   <p align="center">
-    🔭 I’m currently working on <b>Cloud Native technologies & DevOps-based projects</b>.<br />
-    💬 Ask me about <b>Go, Docker, AWS, or anything related to Backend & DevOps</b>.<br />
+    🔭 I’m currently working on <b>Cloud Native technologies, AI driven projects and full stack software </b>.<br />
+    💬 Ask me about <b>Vue, Spring Boot, Go, Docker, AWS, or anything related to Backend & Frontend</b>.<br />
   </p>
 
   <h3 align="center">🔗 Connect with Me</h3>
